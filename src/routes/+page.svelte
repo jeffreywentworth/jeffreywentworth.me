@@ -21,7 +21,7 @@
   <br/>
   <p>
     <br/>
-   Ourside of being a programmer, I am the proud father of a beautiful baby girl American Bully XL named <a class="inline-block animate-bounce text-white text-xl" href='/angel'>Angel</a>. She is the light of my life and my best friend.  I am also a massive anime fan, music lover and pseudo chef.
+   Outside of programming, I am the proud father of a beautiful baby girl American Bully XL named <a class="inline-block animate-bounce text-white text-xl" href='/angel'>Angel</a>. She is the light of my life and my best friend.  I am also a massive anime fan, music lover and pseudo chef.
   </p>
   <br/>
 </div>
