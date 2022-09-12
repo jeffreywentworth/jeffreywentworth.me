@@ -9,7 +9,7 @@ module.exports = {
 		},
 		extend: {
 			fontFamily: {
-				lato: ['Lato']
+				mono: ['Roboto Mono', 'monospace']
 			}
 		},
 		colors: {

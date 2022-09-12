@@ -11,49 +11,61 @@ let sections = [angeleyes]
   <a class="hover:animate-pulse text-white text-xl" href='/'>home</a>
 </nav>
 <br/>
-<br/>
-<h1 class="text-5xl mt-16"><strong>Angel</strong></h1>
-<br/>
-<p>
-  Angel was born on January 26th, 2019. She enjoys going to the beach, eating peanut butter, cuddles and destroying toys.
-</p>
-<br/>
-<div class="slider">
+<div class="container">
+  <h1 class="text-6xl mt-16"><strong>Angel</strong></h1>
+  <br/>
+  <br/>
+  <p>
+    Angel was born on January 26th, 2019. She enjoys going to the beach, eating peanut butter, cuddles and destroying toys.
+  </p>
+  <br/>
+
+  <img src={angeleyes} alt="angel baby" />
+</div>
+
+
+
+<!-- <div class="slider">
 	{#each sections as section}
 		<section>
 			<img src={section} alt='angel'>
 		</section>
 	{/each}
-</div>
+</div> -->
 
 
 <style>
-	* {
+  .container {
+    position: relative;
+    max-height:50vh;
+    max-width: 80vw;
+    /* left: 50%; */
+    margin-right: -50%;
+  }
+  img {
+  position: relative;
+  max-height:50vh;
+    max-width: 50vw;
+}
+	/* * {
 		box-sizing: border-box;
 		margin: 0;
 		padding: 0;
-	}
-	.slider {
+	} */
+	/* .slider {
 		scroll-snap-type: x mandatory;	
 		display: flex;
 		-webkit-overflow-scrolling: touch;
 		overflow-x: scroll;
-	}
-	section {
+	} */
+	/* section {
 		padding: 1rem;
-		min-width: 80vw;
-		height: 70vh;
+		min-width: 100vw;
+		height: 100vh;
 		scroll-snap-align: start;
 		text-align: center;
 		position: relative;
-	}
-	img	{
-		position: absolute;
-		top: 75%;
-		transform: translateY(-50%);
-		/* width: 100%; */
-		left: 0;
-	}
+	} */
 
   a {
   text-decoration: none;
