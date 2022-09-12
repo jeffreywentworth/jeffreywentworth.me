@@ -1,18 +1,9 @@
 <script>
-import angelbaseball from "../../angelbaseballfield.jpg"
 import angeleyes from "../../angeleyes.jpg"
-import angelsnowy from '../../angelsnowivy.jpg'
-import angelwalkway from '../../angelwalkway.jpg'
-import babyweirdo from '../../babyweirdoangel.jpg'
+
 import { fade } from 'svelte/transition'
 
-let sections = [
-		angelbaseball,
-		angeleyes,
-		angelsnowy,
-		angelwalkway,
-		babyweirdo,
-	]
+let sections = [angeleyes]
 
 </script>
 
