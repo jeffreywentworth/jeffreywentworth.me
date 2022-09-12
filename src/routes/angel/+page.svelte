@@ -16,7 +16,7 @@ let sections = [angeleyes]
   <br/>
   <br/>
   <p>
-    Angel is a sweet and outrageously funny American Bully XL. She was born in Queens NY, on January 26th, 2019 and came home June 7th that same year. She enjoys going to the beach, eating peanut butter, cuddles and destroying toys. Her favorite color is pink, and she will not think twice about stealing the candy straight from your mouth!
+    Angel is a sweet and outrageously funny American Bully XL. She was born in Queens NY, on January 26th, 2019 and came home June 7th that same year. She enjoys going to the beach, eating peanut butter, cuddles and destroying toys.
   </p>
   <br/>
 
