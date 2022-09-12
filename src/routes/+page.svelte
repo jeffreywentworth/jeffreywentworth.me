@@ -11,7 +11,7 @@
 </h3>
 <div class='divide-y-2 divide-dotted'>
   <p class='mt-16'>
-    I am a devilishly handsome, empathetic software engineer currently based in Brooklyn, New York, and LGBTQ community member/supporter who loves to build. I most recently have been working on <a class="hover:animate-pulse text-white text-xl" href="https://www.svelvet.io/">Svelvet</a>. Visit my <a class="hover:animate-pulse text-white text-xl" href='https://github.com/jeffreywentworth'>Github</a> if you want to see what I'm working on next! I am a massive Rich Harris fan - so I love all things Svelte.
+    I am a devilishly handsome, empathetic software engineer currently based in Brooklyn, New York, and LGBTQ community member/supporter who loves to build. I most recently have been working on <a class="hover:animate-pulse text-white text-xl" href="https://www.svelvet.io/">Svelvet</a>. Visit my <a class="hover:animate-pulse text-white text-xl" href='https://github.com/jeffreywentworth'>Github</a> if you want to see what I'm working on next! Lover of all things Svelte.
   </p>
   <br/>
   <p>
@@ -21,7 +21,7 @@
   <br/>
   <p>
     <br/>
-   Outside of programming, I am the proud father of a beautiful baby girl American Bully XL named <a class="inline-block animate-bounce text-white text-xl" href='/angel'>Angel</a>. She is the light of my life and my best friend.  I am also a massive anime fan, music lover and pseudo chef.
+   Outside of programming, I am the proud father of a beautiful baby girl named <a class="inline-block animate-bounce text-white text-xl" href='/angel'>Angel</a>. She is the light of my life and my best friend.  I am also a massive anime fan, music lover and pseudo chef.
   </p>
   <br/>
 </div>
